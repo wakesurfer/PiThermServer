@@ -1,3 +1,5 @@
+Han skriver på sin blog att det tar upp till 2 timmar!! att kompilera koden på RPi?!
+
 PiThermServer
 =============
 
